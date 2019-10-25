@@ -1,2 +1,0 @@
-dataset/listings.csv filter=lfs diff=lfs merge=lfs -text
-dataset/calendar.csv filter=lfs diff=lfs merge=lfs -text
